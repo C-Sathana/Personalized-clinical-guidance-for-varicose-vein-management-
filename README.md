@@ -1,0 +1,2 @@
+# Personalized-clinical-guidance-for-varicose-vein-management-
+AI-powered system that detects varicose veins from leg images, predicts their clinical stage (C0–C6), and provides personalized lifestyle recommendations. Integrating deep learning, unsupervised clustering, and real-time hospital mapping, it offers a comprehensive detection, guidance, and navigation solution for patients and clinicians.
